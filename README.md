@@ -151,6 +151,9 @@ A note taker for your daily task. You will be bale to save an rewrite your notes
 
 ## Badges
 
+<img alt="GitHub" src="https://img.shields.io/github/license/djonjasmine/note-taker">
+
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/djonjasmine/note-taker">
 
 
 ## Visuals
