@@ -16,7 +16,7 @@ A note taker for your daily task. You will be bale to save an rewrite your notes
 
 ## Visuals
 
-![Note Taker Screenshot](assets/images/Password-Generator-Generate-A-Unique-Password-Screenshoot.png)
+![Note Taker Screenshot](./assets/images/Note%20Taker%20and%207%20more%20pages%20-%20Profile%201%20-%20Microsoft%E2%80%8B%20Edge%201_18_2023%203_54_02%20PM.png)
 
 
 ## Usage
