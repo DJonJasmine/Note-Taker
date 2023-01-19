@@ -35,8 +35,8 @@ app.get('/api', (req, res) => res.json(dbData));
 //create notes
 function createNote(body, notesArray) {
     const note = body;
-    notesArray = [];
     notesArray.push(note);
+
 
     fs.writeFileSync(
         path.join(__dirname, './db/db.json'),
